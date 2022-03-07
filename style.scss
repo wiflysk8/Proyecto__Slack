@@ -379,10 +379,10 @@ h1 {
 }
 
 .b-border__radius {
-  z-index: -1;
+  z-index: 1;
   position: relative;
   width: 100%;
-  height: 194px;
+  height: 224px;
   background-color:#49174e;
   border-radius: 100%;
   bottom: 100px;
